@@ -160,42 +160,14 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
+     
       {
         "title": "Twilio Messaging System",
         "category": "Twilio",
-        "image": "data:image/png;base64,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",
+        "image": "https://www.supremo.co.uk/wp-content/uploads/2015/12/twilio.jpg",
         "url": "https://beautysigninfrontenddev.azurewebsites.net/"
       },
-      {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
+     
     ]
   }
 
